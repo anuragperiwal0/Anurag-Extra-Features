@@ -47,3 +47,6 @@ ffmpeg-python
 ffmpeg
 Pillow
 ujson
+heroku3
+pynewtonmath
+pytz
